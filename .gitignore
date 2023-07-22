@@ -1,0 +1,6 @@
+/client/node_modules
+
+/server/node_modules
+/server/.env
+temp_auto_push.bat
+temp_interactive_push.bat
